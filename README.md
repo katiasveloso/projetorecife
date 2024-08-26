@@ -1,6 +1,6 @@
-Aula HTML/CSS Proz - Talent Cloud
+<h1>Aula HTML/CSS Proz - Talent Cloud</h1>
 
-#Instrução do Projeto
+Instrução do Projeto
 
 A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pontos turísticos e um deles é o Marco Zero. Sabendo disso, crie uma página HTML, falando sobre esse ponto turístico de acordo com os seguintes pré-requisitos: 
 
