@@ -1,0 +1,208 @@
+:root{
+    
+    --corBorda:#181616;
+}
+
+
+*{
+    margin: 0;
+}
+
+body{
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 6px;
+    padding: 6px;
+}
+
+.header{
+    padding: 25px 0;
+	height: 150px; 
+    
+    
+}
+
+.menu{
+    
+    background-color: rgb(249, 119, 119);
+    
+    display:flex;
+    margin-bottom: 40px;
+    margin-block-start: 2%;
+    height: 80px;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    list-style-type: none;
+    border-bottom: solid 2px var(--corBorda);
+    box-shadow: 1px 2px 5px var(--corBorda);
+    
+
+
+}
+
+
+
+ul li a{
+    margin: 30px;
+    text-decoration: none;
+    text-align:left;
+    color: rgb(46, 6, 192);
+    
+  
+}
+
+a:hover{
+    color: rgb(11, 219, 38);
+}
+h1{
+    margin-bottom: 30px;
+    margin-left: 330px;
+    font-size: 30px;
+    color:black
+}
+
+.imagemrecife{
+    height: 600px;
+    width: 1000px;
+    padding-left: 150px;
+    text-align: center;
+
+   
+  
+}
+
+.titulo1{
+    padding-left: 500px;
+    font-size: 30px; 
+    padding-top: 60px;
+    
+}
+
+.imagemMarcoZero{
+    padding-top: 30px;
+    height: 400px;
+    width: 800px;
+    padding-left: 200px;
+
+}
+
+    
+
+.texto1 {
+    
+	color: #191e3b;
+    font-family: "Inter", sans-serif,system-ui;
+    font-size: 15px;
+    height:40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+.titulo2{
+    padding-left: 500px;
+    font-size: 30px; 
+    padding-top: 60px;
+    
+}
+
+
+.capelaDourada{
+    padding-top: 30px;
+    height: 400px;
+    width: 800px;
+    padding-left: 200px;
+
+}
+
+.texto2 {
+    
+	color: #191e3b;
+    font-family: "Inter", sans-serif,system-ui;
+    font-size: 15px;
+    height:40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+
+.titulo3{
+    /* padding-left: 300px; */
+    font-size: 30px; 
+    padding-top: 60px; 
+    text-align: center;
+    
+}
+
+.oficinaCeramica{
+    padding-top: 30px;
+    height: 500px;
+    width: 900px;
+    padding-left: 200px;
+    text-align: center;
+
+}
+
+
+.texto3 {
+    
+	color: #191e3b;
+    font-family: "Inter", sans-serif,system-ui;
+    font-size: 15px;
+    height:40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.localizacao{
+    color: #191e3b;
+    font-family: "Inter", sans-serif,system-ui;
+    padding-top: 30px;
+}
+
+.mapa{
+    padding-top: 30px;
+    width: 1220px;
+    height: 300px;
+    text-align: center;
+}
+
+.redeSocial{
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+
+
+.rodape ul{
+    
+    padding-bottom: 10px;
+    padding-top: 10px;
+    list-style-type: none;
+    align-items:normal;
+    justify-content:baseline;
+    height: 80px;
+    margin-block-start: 12px;
+    color: blue;
+    font-family: "Inter", sans-serif,system-ui;
+
+
+   
+   
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+	margin-top: 30px;
+}
